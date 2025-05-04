@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Contact-blue)](https://www.facebook.com/profile.php?id=100010098306305)
 [![Email](https://img.shields.io/badge/Email-Send-red)](mailto:nhatuan20032508@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Zalo-brightgreen)](tel:+84353737550)
-[![Github](https://img.shields.io/badge/Github-Profile-lightgrey?logo=github)](https://github.com/nhatuan20032508)
+[![Github](https://img.shields.io/badge/Github-Profile-lightgrey?logo=github)](https://github.com/nguyenhoanganhtuan03)
 
 </div>
 

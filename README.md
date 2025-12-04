@@ -25,10 +25,10 @@ age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
 name = "Nguyễn Hoàng Anh Tuấn"
 dob = "25/8/2003"
 dream = "Computer Science Engineer specializing in Computer Vision"
-languages = ["C++", "Python", "JavaScript"]
+languages = ["C", "Python", "JavaScript"]
 libraries = ["OpenCV", "TensorFlow", "PyTorch", "..."]
 frameworks = ["Flask", "FastAPI", "Vue.js", "Express.js", "PyQt5"]
-tools = ["Docker", "Postman"]
+tools = ["Docker", "Postman", "Git", "Github", "..."]
 databases = ["MySQL", "MongoDB"]
 
 print(f"Hello, my name is {name}.")

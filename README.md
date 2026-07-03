@@ -27,7 +27,7 @@ dob = "25/8/2003"
 dream = "Computer Science Engineer specializing in Computer Vision"
 languages = ["C/C++", "Python", "JavaScript", "C#"]
 libraries = ["OpenCV", "TensorFlow", "PyTorch", "..."]
-frameworks = ["Flask", "FastAPI", "Vue.js", "Express.js", "PyQt5", "ASP.NET", ...]
+frameworks = ["Flask", "FastAPI", "Vue.js", "Express.js", "PyQt5", "ASP.NET", "..."]
 tools = ["Docker", "Postman", "Git", "Github", "VSC", "Visual Studio", "..."]
 databases = ["MySQL", "MongoDB", "SQL Server"]
 
